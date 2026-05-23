@@ -119,14 +119,29 @@ const jaimil = {
 
 <div align="center">
 
+### 🏢 Enterprise & Internship Projects — *Jenili Innovation*
+
+| Project | Description | Tech | Role |
+|:---:|:---|:---:|:---:|
+| 💼 **[Purchase Point](https://github.com/jaimiltrived/pp_backend-)** | Enterprise B2B procurement platform with 73+ API endpoints, RFQ lifecycle management, AI-powered semantic search, deep financial analysis & Swagger documentation | Node.js · Express · MySQL · Sequelize · JWT · AI Search | 👑 Lead Developer |
+| 🏗 **[IINDEPRO](https://github.com/jaimiltrived/IINDEPRO)** | Professional company website built with modern Vite + React architecture for Jenili Innovation's client | Vite · JavaScript · CSS | 👑 Lead Developer |
+
+### 🔥 Full Stack & Mobile Projects
+
 | Project | Description | Tech |
 |:---:|:---|:---:|
 | 🧹 **[CleanATM](https://github.com/jaimiltrived/cleanATM)** | Full-stack ATM cleanliness complaint platform with Flutter app, React banker dashboard & Node.js API | Flutter · React · Node.js · MySQL |
-| 🏛 **[POSB](https://github.com/jaimiltrived/posb)** | Post Office website built for Smart India Hackathon | HTML · CSS · JS |
-| 👕 **[Laundry Management App](https://github.com/jaimiltrived/laundry-managment-app)** | End-to-end laundry service management application | Flutter |
-| 🎵 **[SoundSphere](https://github.com/jaimiltrived/soundsphere_frountend)** | Music streaming application frontend | PHP · HTML · CSS |
-| 🌐 **[Personal Website](https://github.com/jaimiltrived/jay_website)** | My personal portfolio website | HTML · CSS |
-| ⚡ **[SIH Hackathon 2024](https://github.com/jaimiltrived/SIH_2024-1-)** | Smart India Hackathon 2024 project submission | Web |
+| 👕 **[Laundry Management App](https://github.com/jaimiltrived/laundry-managment-app)** | End-to-end laundry service management application with complete CRUD operations | Flutter · Dart |
+| 🎵 **[SoundSphere](https://github.com/jaimiltrived/soundsphere_frountend)** | Music streaming application frontend with playlist management & audio player | PHP · HTML · CSS · JS |
+
+### 🏆 Hackathon & Web Projects
+
+| Project | Description | Tech |
+|:---:|:---|:---:|
+| 🏛 **[POSB](https://github.com/jaimiltrived/posb)** | Post Office Savings Bank website built for Smart India Hackathon | HTML · CSS · JS |
+| ⚡ **[SIH Hackathon 2024](https://github.com/jaimiltrived/SIH_2024-1-)** | Smart India Hackathon 2024 project submission | HTML · CSS · JS |
+| 🌐 **[Personal Portfolio](https://github.com/jaimiltrived/jay_website)** | Personal portfolio website showcasing projects & skills | HTML · CSS |
+| 🎯 **[SIH Hackathon](https://github.com/jaimiltrived/sihhackthon)** | Smart India Hackathon project — problem solving & innovation | HTML · CSS · JS |
 
 </div>
 
