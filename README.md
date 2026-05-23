@@ -18,15 +18,15 @@
 const jaimil = {
   name:        "Jaimil Trivedi",
   username:    "jaimiltrived",
-  role:        "Lead Full Stack & Generative AI Developer",
-  company:     "Jenili Innovation (Intern)",
-  passion:     "Building intelligent, real-world solutions with clean code & AI",
-  currentWork: "Enterprise-grade full-stack platforms & AI-powered applications",
-  expertise:   ["Full Stack Web Dev", "Generative AI", "Prompt Engineering", "AI Agents"],
-  stack:       ["React", "Node.js", "Flutter", "MySQL", "Python", "LangChain", "OpenAI API"],
+  role:        "Lead Full Stack, Gen AI, Docker & DevOps Developer",
+  company:     "Jenili Innovation",
+  passion:     "Building intelligent, real-world solutions with clean code, automation & AI",
+  currentWork: "Enterprise-grade platforms, AI-powered systems & containerized deployments",
+  expertise:   ["Full Stack Web Dev", "Generative AI", "Docker", "DevOps Basics", "AI Agents"],
+  stack:       ["React", "Node.js", "Flutter", "Python", "Docker", "MySQL", "LangChain"],
   hackathons:  ["Smart India Hackathon 2024"],
-  interests:   ["Gen AI", "LLMs", "Mobile Apps", "Web Development", "UI/UX Design"],
-  funFact:     "I turn ideas into intelligent apps 🤖 + ☕ + 💻",
+  interests:   ["Gen AI", "LLMs", "Containerization", "CI/CD", "Web Architecture"],
+  funFact:     "I turn coffee and complex ideas into scalable, intelligent apps 🤖 + ☕ + 🐳",
 };
 ```
 
