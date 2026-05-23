@@ -14,21 +14,15 @@
 
 ## 👨‍💻 About Me
 
-```js
-const jaimil = {
-  name:        "Jaimil Trivedi",
-  username:    "jaimiltrived",
-  role:        "Lead Full Stack, Gen AI, Docker & DevOps Developer",
-  company:     "Jenili Innovation",
-  passion:     "Building intelligent, real-world solutions with clean code, automation & AI",
-  currentWork: "Enterprise-grade platforms, AI-powered systems & containerized deployments",
-  expertise:   ["Full Stack Web Dev", "Generative AI", "Docker", "DevOps Basics", "AI Agents"],
-  stack:       ["React", "Node.js", "Flutter", "Python", "Docker", "MySQL", "LangChain"],
-  hackathons:  ["Smart India Hackathon 2024"],
-  interests:   ["Gen AI", "LLMs", "Containerization", "CI/CD", "Web Architecture"],
-  funFact:     "I turn coffee and complex ideas into scalable, intelligent apps 🤖 + ☕ + 🐳",
-};
-```
+Hi there! 👋 I'm **Jaimil Trivedi**, a **Lead Full Stack, Gen AI, Docker & DevOps Developer** currently leading projects at **Jenili Innovation**. 
+
+My passion lies in **building intelligent, real-world solutions** with clean code, automation, and AI. I specialize in developing enterprise-grade platforms, AI-powered systems, and scalable containerized deployments.
+
+* 💡 **Expertise:** Full Stack Web Development, Generative AI, Docker, DevOps Basics, and AI Agents
+* 🛠️ **Tech Stack:** React, Node.js, Flutter, Python, Docker, MySQL, and LangChain
+* 🌱 **Currently Interested In:** LLMs, Containerization, CI/CD pipelines, and Web Architecture
+* 🏆 **Hackathons:** Smart India Hackathon 2024
+* ⚡ **Fun Fact:** I turn coffee and complex ideas into highly scalable, intelligent apps! 🤖 + ☕ + 🐳
 
 ---
 
