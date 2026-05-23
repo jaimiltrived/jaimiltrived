@@ -87,8 +87,8 @@ const jaimil = {
 [![GitHub](https://img.shields.io/badge/GitHub-jaimiltrived-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaimiltrived)
 
 `🚀 Full Stack Development` `🤖 Generative AI` `🧠 AI Agents`<br/>
-`⚛️ React` `📱 Flutter` `🟢 Node.js` `🐍 Python`<br/>
-`🔗 LangChain` `🤖 OpenAI API` `💎 Prompt Engineering`
+`⚛️ React` `📱 Flutter` `🟢 Node.js` `🐍 Python`<br/> 
+`🤖 OpenAI API` `💎 Prompt Engineering`
 
 > *Leading end-to-end development of enterprise platforms,*<br/>
 > *AI-powered applications & intelligent automation solutions*
@@ -115,7 +115,7 @@ const jaimil = {
 <br/>
 
 **🤝 Collaborative Team Projects:**<br/>
-🧹 [CleanATM](https://github.com/jaimiltrived/cleanATM) &nbsp;&bull;&nbsp; 🏛 [POSB (SIH)](https://github.com/jaimiltrived/posb) &nbsp;&bull;&nbsp; 🌐 [Jay's Portfolio](https://github.com/jaimiltrived/jay_website)
+ 🏛 [POSB (SIH)](https://github.com/jaimiltrived/posb) &nbsp;&bull;&nbsp; 🌐 [Jay's Portfolio](https://github.com/jaimiltrived/jay_website)
 
 </td>
 </tr>
@@ -159,9 +159,9 @@ const jaimil = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaimiltrived&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6584&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jaimiltrived&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6584&text_color=ffffff" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimiltrived&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaimiltrived&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" height="165"/>
 
 </div>
 
