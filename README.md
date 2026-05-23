@@ -79,39 +79,38 @@ const jaimil = {
 
 <img src="https://img.shields.io/badge/🏢_Jenili_Innovation-Intern-6C63FF?style=for-the-badge&labelColor=0D1117" />
 
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
+<br/><br/>
 
 ### 👑 Jaimil Trivedi
 **Lead Full Stack & Gen AI Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-jaimiltrived-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaimiltrived)
 
-`🚀 Full Stack Development` `🤖 Generative AI` `🧠 AI Agents`
-`⚛️ React` `📱 Flutter` `🟢 Node.js` `🐍 Python`
+`🚀 Full Stack Development` `🤖 Generative AI` `🧠 AI Agents`<br/>
+`⚛️ React` `📱 Flutter` `🟢 Node.js` `🐍 Python`<br/>
 `🔗 LangChain` `🤖 OpenAI API` `💎 Prompt Engineering`
 
-> *Leading end-to-end development of enterprise platforms,*
+> *Leading end-to-end development of enterprise platforms,*<br/>
 > *AI-powered applications & intelligent automation solutions*
 
-</td>
-<td align="center" width="50%">
+</div>
+
+---
+
+## 🤝 Team & Collaborators
+
+<div align="center">
 
 ### Jay Santoki
-*Frontend Developer Intern*
+*Developer & Collaborator*
 
 [![GitHub](https://img.shields.io/badge/GitHub-jaysantoki123-333?style=flat-square&logo=github&logoColor=white)](https://github.com/jaysantoki123)
 
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `🧠 AI Agents` `🤖 Chatbots`
 
 > *B.Tech Computer Engineering, RK University*
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
