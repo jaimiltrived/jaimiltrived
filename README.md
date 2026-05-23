@@ -115,7 +115,7 @@ My passion lies in **building intelligent, real-world solutions** with clean cod
 <br/>
 
 **🤝 Collaborative Team Projects:**<br/>
- 🏛 [POSB (SIH)](https://github.com/jaimiltrived/posb) &nbsp;&bull;&nbsp; 🌐 [Jay's Portfolio](https://github.com/jaimiltrived/jay_website)
+🧹 [CleanATM](https://github.com/jeniliinnovation/cleanATM) &nbsp;&bull;&nbsp; 🏛 [POSB (SIH)](https://github.com/jaimiltrived/posb) &nbsp;&bull;&nbsp; 👔 [Expert On Floor](https://github.com/jaysantoki123/expert-on-floor) &nbsp;&bull;&nbsp; 👕 [Laundry Management](https://github.com/jaysantoki123/laundary-management) &nbsp;&bull;&nbsp; 🌐 [Jay's Portfolio](https://github.com/jaimiltrived/jay_website)
 
 </td>
 </tr>
@@ -131,15 +131,17 @@ My passion lies in **building intelligent, real-world solutions** with clean cod
 
 | Project | Description | Tech | Role |
 |:---:|:---|:---:|:---:|
-| 💼 **[Purchase Point](https://github.com/jaimiltrived/pp_backend-)** | Enterprise B2B procurement platform with 73+ API endpoints, RFQ lifecycle management, AI-powered semantic search, deep financial analysis & Swagger documentation | Node.js · Express · MySQL · Sequelize · JWT · AI Search | 👑 Lead Developer |
-| 🏗 **[IINDEPRO](https://github.com/jaimiltrived/IINDEPRO)** | Professional company website built with modern Vite + React architecture for Jenili Innovation's client | Vite · JavaScript · CSS | 👑 Lead Developer |
+| 💼 **[Purchase Point](https://github.com/jeniliinnovation/Purchase-point)** | Enterprise B2B procurement platform with 73+ API endpoints, RFQ lifecycle management, AI-powered semantic search, deep financial analysis & Swagger documentation | Node.js · Express · MySQL · Sequelize · JWT · AI Search | 👑 Lead Developer |
+| 🏗 **[IINDEPRO](https://github.com/jeniliinnovation/IINDEPRO)** | Professional company website built with modern Vite + React architecture for Jenili Innovation's client | Vite · JavaScript · CSS | 👑 Lead Developer |
+| 🛣️ **[Sadak-Sevak](https://github.com/jeniliinnovation/Sadak-Sevak)** | Enterprise road maintenance & civic complaint management API with normalized DB & analytics | Node.js · Express · MySQL | 👑 Lead Developer |
+| 🧹 **[CleanATM](https://github.com/jeniliinnovation/cleanATM)** | Full-stack ATM cleanliness complaint platform with Flutter app, React banker dashboard & Node.js API | Flutter · React · Node.js | 👑 Lead Developer |
 
 ### 🔥 Full Stack & Mobile Projects
 
 | Project | Description | Tech |
 |:---:|:---|:---:|
-| 🧹 **[CleanATM](https://github.com/jaimiltrived/cleanATM)** | Full-stack ATM cleanliness complaint platform with Flutter app, React banker dashboard & Node.js API | Flutter · React · Node.js · MySQL |
-| 👕 **[Laundry Management App](https://github.com/jaimiltrived/laundry-managment-app)** | End-to-end laundry service management application with complete CRUD operations | Flutter · Dart |
+| 👔 **[Expert On Floor](https://github.com/jaysantoki123/expert-on-floor)** | Professional networking and expert consultation platform | React · Node.js · MongoDB |
+| 👕 **[Laundry Management](https://github.com/jaimiltrived/laundry-managment-app)** | End-to-end laundry service management application with complete CRUD operations | Flutter · Dart |
 | 🎵 **[SoundSphere](https://github.com/jaimiltrived/soundsphere_frountend)** | Music streaming application frontend with playlist management & audio player | PHP · HTML · CSS · JS |
 
 ### 🏆 Hackathon & Web Projects
@@ -150,6 +152,7 @@ My passion lies in **building intelligent, real-world solutions** with clean cod
 | ⚡ **[SIH Hackathon 2024](https://github.com/jaimiltrived/SIH_2024-1-)** | Smart India Hackathon 2024 project submission | HTML · CSS · JS |
 | 🌐 **[Personal Portfolio](https://github.com/jaimiltrived/jay_website)** | Personal portfolio website showcasing projects & skills | HTML · CSS |
 | 🎯 **[SIH Hackathon](https://github.com/jaimiltrived/sihhackthon)** | Smart India Hackathon project — problem solving & innovation | HTML · CSS · JS |
+| 📝 **[WordPress Demo](https://github.com/jaimiltrived/wp_demo)** | Dynamic WordPress demonstration website | WordPress · PHP · MySQL |
 
 </div>
 
