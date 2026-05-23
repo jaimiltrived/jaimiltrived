@@ -82,13 +82,13 @@ const jaimil = {
 <br/><br/>
 
 ### 👑 Jaimil Trivedi
-**Lead Full Stack, Gen AI & Docker Developer**
+**Lead Full Stack, Gen AI, Docker & DevOps Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-jaimiltrived-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaimiltrived)
 
-`🚀 Full Stack Development` `🤖 Generative AI` `🧠 AI Agents` `🐳 Docker`<br/>
-`⚛️ React` `📱 Flutter` `🟢 Node.js` `🐍 Python`<br/> 
-`🤖 OpenAI API` `💎 Prompt Engineering`
+`🚀 Full Stack Development` `🤖 Generative AI` `🧠 AI Agents`<br/>
+`🐳 Docker` `⚙️ DevOps (Basics)` `⚛️ React` `📱 Flutter`<br/> 
+`🟢 Node.js` `🐍 Python` `🤖 OpenAI API` `💎 Prompt Engineering`
 
 > *Leading end-to-end development of enterprise platforms,*<br/>
 > *AI-powered applications & intelligent automation solutions*
