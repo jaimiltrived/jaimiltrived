@@ -99,7 +99,9 @@ const jaimil = {
 
 ## 🤝 Team & Collaborators
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center">
 
 ### Jay Santoki
 *Developer & Collaborator*
@@ -110,7 +112,14 @@ const jaimil = {
 
 > *B.Tech Computer Engineering, RK University*
 
-</div>
+<br/>
+
+**🤝 Collaborative Team Projects:**<br/>
+🧹 [CleanATM](https://github.com/jaimiltrived/cleanATM) &nbsp;&bull;&nbsp; 🏛 [POSB (SIH)](https://github.com/jaimiltrived/posb) &nbsp;&bull;&nbsp; 🌐 [Jay's Portfolio](https://github.com/jaimiltrived/jay_website)
+
+</td>
+</tr>
+</table>
 
 ---
 
