@@ -19,7 +19,7 @@ Hi there! 👋 I'm **Jaimil Trivedi**, a **Lead Full Stack, Gen AI, Docker & Dev
 My passion lies in **building intelligent, real-world solutions** with clean code, automation, and AI. I specialize in developing enterprise-grade platforms, AI-powered systems, and scalable containerized deployments.
 
 * 💡 **Expertise:** Full Stack Web Development, Generative AI, Docker, DevOps Basics, and AI Agents
-* 🛠️ **Tech Stack:** React, Node.js, Flutter, Java, Kotlin, Python, Docker, MySQL, and LangChain
+* 🛠️ **Tech Stack:** React, Node.js, Flutter, Java, Kotlin, PHP, Laravel, Python, Docker, MySQL, and LangChain
 * 🌱 **Currently Interested In:** LLMs, Containerization, CI/CD pipelines, and Web Architecture
 * 🏆 **Hackathons:** Smart India Hackathon 2024
 * ⚡ **Fun Fact:** I turn coffee and complex ideas into highly scalable, intelligent apps! 🤖 + ☕ + 🐳
@@ -55,6 +55,7 @@ My passion lies in **building intelligent, real-world solutions** with clean cod
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
