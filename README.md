@@ -82,11 +82,11 @@ const jaimil = {
 <br/><br/>
 
 ### 👑 Jaimil Trivedi
-**Lead Full Stack & Gen AI Developer**
+**Lead Full Stack, Gen AI & Docker Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-jaimiltrived-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaimiltrived)
 
-`🚀 Full Stack Development` `🤖 Generative AI` `🧠 AI Agents`<br/>
+`🚀 Full Stack Development` `🤖 Generative AI` `🧠 AI Agents` `🐳 Docker`<br/>
 `⚛️ React` `📱 Flutter` `🟢 Node.js` `🐍 Python`<br/> 
 `🤖 OpenAI API` `💎 Prompt Engineering`
 
