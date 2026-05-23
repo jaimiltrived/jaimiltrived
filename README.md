@@ -19,7 +19,7 @@ Hi there! 👋 I'm **Jaimil Trivedi**, a **Lead Full Stack, Gen AI, Docker & Dev
 My passion lies in **building intelligent, real-world solutions** with clean code, automation, and AI. I specialize in developing enterprise-grade platforms, AI-powered systems, and scalable containerized deployments.
 
 * 💡 **Expertise:** Full Stack Web Development, Generative AI, Docker, DevOps Basics, and AI Agents
-* 🛠️ **Tech Stack:** React, Node.js, Flutter, Python, Docker, MySQL, and LangChain
+* 🛠️ **Tech Stack:** React, Node.js, Flutter, Java, Kotlin, Python, Docker, MySQL, and LangChain
 * 🌱 **Currently Interested In:** LLMs, Containerization, CI/CD pipelines, and Web Architecture
 * 🏆 **Hackathons:** Smart India Hackathon 2024
 * ⚡ **Fun Fact:** I turn coffee and complex ideas into highly scalable, intelligent apps! 🤖 + ☕ + 🐳
@@ -39,6 +39,8 @@ My passion lies in **building intelligent, real-world solutions** with clean cod
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
